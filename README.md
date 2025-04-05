@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfx2006&label=Profile%20views&color=0e75b6&style=flat" alt="jfx2006" /> </p>
 
-- ⏰ #dayjob Build & Release Engineer at MZLA Technologies, working on [Mozilla Thunderbird](https://thunderbird.net)
-
-- 👨‍💻 Personal projects on GitLab [https://gitlab.com/jfx2006](https://gitlab.com/jfx2006)
-
 - ⚡ Fun fact **I play the 🎷**
 
 <h3 align="left">Connect with me:</h3>
